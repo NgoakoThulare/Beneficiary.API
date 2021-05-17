@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Beneficiary.API</name>
+    </assembly>
+    <members>
+        <member name="T:Beneficiary.API.Controllers.BeneficiaryController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Beneficiary.API.Controllers.BeneficiaryController.#ctor(AutoMapper.IMapper,Beneficiary.Core.Repository.IBeneficiaryRepository)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+            <param name="beneficiaryRepo"></param>
+        </member>
+        <member name="M:Beneficiary.API.Controllers.BeneficiaryController.GetBeneficiaries">
+            <summary>
+            Returns a list of beneficiaries.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Beneficiary.API.Controllers.BeneficiaryController.GetBeneficiary(System.Int32)">
+            <summary>
+            Gets individual beneficiary.
+            </summary>
+            <param name="id"> The Id of beneficiary. </param>
+            <returns></returns>
+        </member>
+        <member name="M:Beneficiary.API.Controllers.BeneficiaryController.CreateBeneficiary(Beneficiary.Contracts.DTOs.BeneficiaryDto)">
+            <summary>
+            Creates a beneficiary
+            </summary>
+            <param name="beneficiary">Beneficiary input object</param>
+            <returns></returns>
+        </member>
+        <member name="M:Beneficiary.API.Controllers.BeneficiaryController.UpdateBeneficiary(System.Int32,Beneficiary.Contracts.DTOs.BeneficiaryDto)">
+            <summary>
+            Updates Beneficiary.
+            </summary>
+            <param name="id">Beneficiary id.</param>
+            <param name="beneficiary">Beneficiary object.</param>
+            <returns></returns>
+        </member>
+        <member name="M:Beneficiary.API.Controllers.BeneficiaryController.DeleteBeneficiary(System.Int32)">
+            <summary>
+            Removes beneficiary.
+            </summary>
+            <param name="id">Beneficiary id.</param>
+            <returns></returns>
+        </member>
+        <member name="T:Beneficiary.API.Controllers.UsersController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Beneficiary.API.Controllers.UsersController.#ctor(Beneficiary.Core.Repository.IUsersRepository)">
+            <summary>
+            
+            </summary>
+            <param name="userRepo"></param>
+        </member>
+        <member name="M:Beneficiary.API.Controllers.UsersController.Authenticate(System.String,System.String)">
+            <summary>
+            API Users authentication
+            </summary>
+            <param name="Username"></param>
+            <param name="Password"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Beneficiary.API.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Beneficiary.API.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:Beneficiary.API.Startup.Configuration">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Beneficiary.API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Beneficiary.API.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

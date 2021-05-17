@@ -1,0 +1,15 @@
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\bin\Debug\net5.0\Beneficiary.DataAccess.deps.json
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\bin\Debug\net5.0\Beneficiary.DataAccess.runtimeconfig.json
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\bin\Debug\net5.0\Beneficiary.DataAccess.runtimeconfig.dev.json
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\bin\Debug\net5.0\Beneficiary.DataAccess.dll
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\bin\Debug\net5.0\ref\Beneficiary.DataAccess.dll
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\bin\Debug\net5.0\Beneficiary.DataAccess.pdb
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\obj\Debug\net5.0\Beneficiary.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\obj\Debug\net5.0\Beneficiary.DataAccess.AssemblyInfoInputs.cache
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\obj\Debug\net5.0\Beneficiary.DataAccess.AssemblyInfo.cs
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\obj\Debug\net5.0\Beneficiary.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\obj\Debug\net5.0\Beneficiary.DataAccess.dll
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\obj\Debug\net5.0\ref\Beneficiary.DataAccess.dll
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\obj\Debug\net5.0\Beneficiary.DataAccess.pdb
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\obj\Debug\net5.0\Beneficiary.DataAccess.genruntimeconfig.cache
+C:\Users\JNT01\source\repos\Beneficiary.API\Beneficiary.DataAccess\obj\Debug\net5.0\Beneficiary.DataAccess.csprojAssemblyReference.cache
